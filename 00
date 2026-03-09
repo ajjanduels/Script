@@ -27,7 +27,6 @@ getgenv().TARGET_BRAINROTS = {
     ["Capitano Moby"] = true,
     ["Cerberus"] = true,
     ["Dragon Cannelloni"] = true,
-    ["Karker Sahur"] = true,
     ["Guest 666"] = true,
     ["Los Hotspotsitos"] = true,
     ["Los Bros"] = true,
